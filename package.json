@@ -1,20 +1,37 @@
 {
-  "name": "landing-page-tutorial",
-  "version": "0.1.0",
+  "name": "PT Giwang Kanaka - Katalog Produk",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
+    "@coreui/coreui": "^4.2.6",
+    "@coreui/react": "^4.5.2",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "@mui/icons-material": "^5.11.0",
     "@mui/material": "^5.11.0",
-    "react-icons": "^4.7.1"
+    "@mui/styled-engine-sc": "^5.11.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "leaflet": "^1.9.3",
+    "material-ui-flags": "^1.2.4",
+    "mdb-react-ui-kit": "^5.1.0",
+    "mdbreact": "^5.2.0",
+    "react": "^18.2.0",
+    "react-animated-slider": "^1.1.4",
+    "react-bootstrap": "^2.7.0",
+    "react-carousel-minimal": "^1.4.1",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "react-iframe": "^1.8.5",
+    "react-leaflet": "^4.2.0",
+    "react-router": "^6.8.0",
+    "react-router-dom": "^6.8.0",
+    "react-scripts": "5.0.1",
+    "react-scroll": "^1.8.9",
+    "styled-components": "^5.3.6",
+    "swiper": "^9.0.2",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -39,5 +56,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
   }
 }
